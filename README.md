@@ -1,6 +1,7 @@
 # About the room 
-This code implements to count the number of chairs in the room and show each color how many chairs we have 
-Give the width and length of the room 
+-This code implements to count the number of chairs in the room 
+-show each color how many chairs we have 
+-Give the width and length of the room 
 
 ## Installation
 1. Clone the repository:
